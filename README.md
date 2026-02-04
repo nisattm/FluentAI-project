@@ -201,7 +201,11 @@ The platform follows the **Common European Framework of Reference for Languages*
 | **C2** | Proficiency | Near-native understanding |
 
 ---
+## 📄 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## 🙏 Acknowledgments
 
