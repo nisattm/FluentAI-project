@@ -202,46 +202,6 @@ The platform follows the **Common European Framework of Reference for Languages*
 
 ---
 
-## 🔒 Security Notes
-
-- **Never commit `.env.local`** - Contains sensitive API keys
-- The `.gitignore` already excludes environment files
-- Use environment variables in production (Vercel, etc.)
-
----
-
-## 📦 Deployment
-
-### Vercel (Recommended)
-1. Push to GitHub
-2. Import project in [Vercel](https://vercel.com)
-3. Add environment variables in Vercel dashboard
-4. Deploy!
-
-### Other Platforms
-The app can be deployed on any platform supporting Next.js:
-- AWS Amplify
-- Google Cloud Run
-- Railway
-- Render
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
